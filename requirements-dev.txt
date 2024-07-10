@@ -1,3 +1,4 @@
 yapf == 0.40.2
 pylint == 3.0.3
 pytest == 8.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
